@@ -1,0 +1,39 @@
+.container{
+    border: 2px solid green;
+    border-radius: 5px;
+    box-shadow: 9px 6px 12px -8px rgba(0,0,0,0.26);
+    background-color:brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 200px;
+    font-family: 'Quantico', sans-serif;
+    color: white;
+}
+
+.title{
+    font-size: 30px;
+    margin-bottom: 35px;
+    letter-spacing: 2px;
+}
+
+.text{
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.fullName{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: green;
+}
+
+.render{
+    display: none;
+}

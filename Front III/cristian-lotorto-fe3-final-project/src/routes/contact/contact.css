@@ -1,0 +1,8 @@
+.contact p{
+    text-align: center;
+}
+
+.contact {
+    position: relative;
+    top: 15vh;
+}
